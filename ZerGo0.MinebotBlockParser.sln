@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZerGo0.MinebotBlockParser", "ZerGo0.MinebotBlockParser\ZerGo0.MinebotBlockParser.csproj", "{1D79DACA-F778-4A8B-8AB1-AC853DDC5CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinebotBlockClasses", "MinebotBlockClasses\MinebotBlockClasses.csproj", "{5C951666-2A27-4B17-A70B-26001DB5B1F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D79DACA-F778-4A8B-8AB1-AC853DDC5CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D79DACA-F778-4A8B-8AB1-AC853DDC5CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D79DACA-F778-4A8B-8AB1-AC853DDC5CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D79DACA-F778-4A8B-8AB1-AC853DDC5CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C951666-2A27-4B17-A70B-26001DB5B1F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C951666-2A27-4B17-A70B-26001DB5B1F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C951666-2A27-4B17-A70B-26001DB5B1F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D531141-5BF5-4A66-9B1E-F7777A9A25C5}
+	EndGlobalSection
+EndGlobal
